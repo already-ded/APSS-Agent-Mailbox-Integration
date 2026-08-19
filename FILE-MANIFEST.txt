@@ -1,5 +1,3 @@
-COMPLETE PROJECT — VERSION 1.0.2.4
-
 Project files
 app.json
 README.md
