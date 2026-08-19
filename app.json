@@ -1,0 +1,40 @@
+{
+  "id": "7f89fd6b-6506-4d68-9a3b-4f7f3a4340d4",
+  "name": "APSS Agent Mailbox Integration v2",
+  "publisher": "Kathy",
+  "version": "1.0.2.4",
+  "brief": "Connect APSS Item Agent and Sales Order Agent to a Microsoft 365 mailbox.",
+  "description": "Retrieves unread mailbox messages, creates Item Agent tasks, stages item requests for review, creates approved Items, and hands the original email to the Sales Order Agent.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "f2d0130c-4b0e-437a-bcfd-0dc9f84ac961",
+      "name": "AI Development Toolkit",
+      "publisher": "Microsoft",
+      "version": "27.5.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "27.5.0.0",
+  "idRanges": [
+    {
+      "from": 90200,
+      "to": 90299
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "16.0",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "target": "Cloud"
+}

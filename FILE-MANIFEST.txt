@@ -1,0 +1,37 @@
+COMPLETE PROJECT — VERSION 1.0.2.4
+
+Project files
+app.json
+README.md
+INSTALLATION.md
+ITEM-AGENT-INSTRUCTIONS.md
+.vscode/launch.json.example
+
+AL source files
+src/APSSAgentMail.PermissionSet.al
+src/APSSAgentMailDispatcher.Codeunit.al
+src/APSSAgentMailErrorHandler.Codeunit.al
+src/APSSAgentMailManagement.Codeunit.al
+src/APSSAgentMailSetup.Page.al
+src/APSSAgentMailSetup.Table.al
+src/APSSAgentProfile.al
+src/APSSAgentRetrieveEmails.Codeunit.al
+src/APSSAgentSendReplies.Codeunit.al
+src/APSSAgentUserLookup.Page.al
+src/APSSBrandLookup.Page.al
+src/APSSBrandLookupBuffer.Table.al
+src/APSSCustomAgentLookup.Page.al
+src/APSSEventCategory.EnumExt.al
+src/APSSExternalEvents.Codeunit.al
+src/APSSItemAgentHome.al
+src/APSSItemApprove.PermissionSet.al
+src/APSSItemDraft.PermissionSet.al
+src/APSSItemRequestDraft.Table.al
+src/APSSItemRequestDraftCard.Page.al
+src/APSSItemRequestDrafts.Page.al
+src/APSSItemRequestManagement.Codeunit.al
+src/APSSItemRequestStatus.Enum.al
+src/APSSRoleCenter.al
+src/APSSSalesAgentHandoff.Codeunit.al
+src/APSSSalesHandoffRunner.Codeunit.al
+src/APSSSourceEmail.Table.al
